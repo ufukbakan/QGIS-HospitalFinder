@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/hospital_finder" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
