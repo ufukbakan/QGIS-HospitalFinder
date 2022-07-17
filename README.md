@@ -3,8 +3,10 @@ Hospital Finder plugin for QGIS.
 Currently available for only Ankara
 ## Filter hospitals
 Filter hospitals by your requirements
+![Example result of plugin](./screenshots/2.png)
 ## Helpful Markers
 Your location and suitable hospitals are marked on map
+![Screenshot of plugin](./screenshots/1.png)
 
 ## How to use?
 1. Copy the plugin folder to %APPDATA%\QGIS\QGIS3\profiles\default\python\plugins\
